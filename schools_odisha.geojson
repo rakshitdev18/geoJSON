@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhubaneswar Municipal Corporation School",
+        "school_type": "secondary",
+        "students_count": 1200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.8340, 20.2961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuttack Government High School", 
+        "school_type": "higher_secondary",
+        "students_count": 1500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.8792, 20.4625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puri Public School",
+        "school_type": "secondary",
+        "students_count": 800
+      },
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [85.8333, 19.8006]
+      }
+    }
+  ]
+}
