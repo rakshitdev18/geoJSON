@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "name": "Odisha_Hospitals",
+  "crs": { "type": "name", "properties": { "name": "EPSG:4326" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_id": "OD-HSP-001",
+        "name": "AIIMS Bhubaneswar",
+        "type": "Government",
+        "district": "Khurda",
+        "capacity": 1000,
+        "status": "Operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.8136, 20.2643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_id": "OD-HSP-002",
+        "name": "SCB Medical College",
+        "type": "Government",
+        "district": "Cuttack",
+        "capacity": 1500,
+        "status": "Operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.8793, 20.4710]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_id": "OD-HSP-003",
+        "name": "Apollo Hospitals",
+        "type": "Private",
+        "district": "Bhubaneswar",
+        "capacity": 500,
+        "status": "Operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.8180, 20.2961]
+      }
+    }
+  ]
+}
