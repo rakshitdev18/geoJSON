@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Rajesh Mohanty",
+        "plotId": "PLOT-001",
+        "villageName": "Bhubaneswar Village",
+        "claimStatus": "Approved",
+        "status": "Completed",
+        "village": "Bhubaneswar Village",
+        "district": "Khordha",
+        "area": "2.5 acres",
+        "landType": "Agricultural",
+        "surveyNo": "567/2023",
+        "confidenceScore": 95,
+        "asset": "Tree Clusters"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [85.832000, 20.270500],
+          [85.832500, 20.270800],
+          [85.832200, 20.270900],
+          [85.831700, 20.270700],
+          [85.832000, 20.270500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Priyanka Patnaik",
+        "plotId": "PLOT-002",
+        "villageName": "Puri Village",
+        "claimStatus": "Pending",
+        "status": "Completed",
+        "village": "Puri Village",
+        "district": "Puri",
+        "area": "1.8 acres",
+        "landType": "Residential",
+        "surveyNo": "234/2023",
+        "confidenceScore": 78,
+        "asset": "Homestead"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [85.831465, 19.813382],
+          [85.831900, 19.813750],
+          [85.831600, 19.813980],
+          [85.831180, 19.813650],
+          [85.831465, 19.813382]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Amit Kumar Das",
+        "plotId": "PLOT-003",
+        "villageName": "Cuttack Village",
+        "claimStatus": "Rejected",
+        "status": "Completed",
+        "village": "Cuttack Village",
+        "district": "Cuttack",
+        "area": "3.2 acres",
+        "landType": "Commercial",
+        "surveyNo": "891/2023",
+        "confidenceScore": 62
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [85.706170, 20.170780],
+          [85.705870, 20.170980],
+          [85.705560, 20.170720],
+          [85.705760, 20.170480],
+          [85.706170, 20.170780]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Smita Panda",
+        "plotId": "PLOT-004",
+        "villageName": "Jatni Village",
+        "claimStatus": "Approved",
+        "status": "Completed",
+        "village": "Jatni Village",
+        "district": "Khordha",
+        "area": "1.5 acres",
+        "landType": "Agricultural",
+        "surveyNo": "456/2023",
+        "confidenceScore": 89
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [85.706170, 20.170780],
+          [85.705870, 20.170980],
+          [85.705560, 20.170720],
+          [85.705760, 20.170480],
+          [85.706170, 20.170780]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Ashok Behera",
+        "plotId": "PLOT-005",
+        "villageName": "Jatni Village",
+        "claimStatus": "Approved",
+        "status": "Duplicate",
+        "village": "Jatni Village",
+        "district": "Khordha",
+        "area": "0.5 acres",
+        "landType": "Agricultural",
+        "surveyNo": "456/2023",
+        "confidenceScore": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [85.706170, 20.170780],
+          [85.705870, 20.170980],
+          [85.705560, 20.170720],
+          [85.705760, 20.170480],
+          [85.706000, 20.170780]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Manoj Sahoo",
+        "plotId": "PLOT-006",
+        "villageName": "Berhampur Village",
+        "claimStatus": "Pending",
+        "status": "Completed",
+        "village": "Berhampur Village",
+        "district": "Ganjam",
+        "area": "2.1 acres",
+        "landType": "Agricultural",
+        "surveyNo": "123/2023",
+        "confidenceScore": 68
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [85.053200, 20.896500],
+          [85.053600, 20.896800],
+          [85.053300, 20.897100],
+          [85.052900, 20.896800],
+          [85.053200, 20.896500]
+        ]]
+      }
+    }
+  ]
+}
